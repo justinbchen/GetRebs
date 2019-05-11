@@ -1,5 +1,7 @@
 The MIT License (MIT)
 
+Copyright (c) 2019 Justin Chen
+Copyright (c) 2014 Mitchell Gu
 Copyright (c) 2014 Gabriele Cirulli
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
